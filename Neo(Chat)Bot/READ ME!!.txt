@@ -1,0 +1,31 @@
+THANK YOU FOR DOWNLOADING THIS SOURCE CODE FROM PLANET SOURCE CODE!!
+
+NOW
+for logging on, simply goto file and connect.
+
+To use the commands, enable interbot commands, and put the user control on also.
+the wat this works is, when the database window appears, you select the user you
+want to give access to, and click ok. to make the bot do things, that selected
+user needs to whisper it an interbot command, a bnet command, or just plain text.
+to use an interbot command via whisper, you only need to whisper the key work (ex. /w neogenic chaninfo)
+to use an interbot command via the main form, you type / before the command (ex. /chaninfo)
+when user controls are enabled, EVERYTHING the selected user whispers to the bot, it says on battle.net.
+
+Commands for the Interbot Part Are:
+server    - Shows the current server the bot is connected too.
+online    - Shows account(s) Logged in and the handle.
+home      - Shows the bots current home channel.
+version   - Shows the version of the bot your using.
+chaninfo  - Shows The Current Channel, and Number of users in the channel.
+osinfo    - Shows your operating System name.
+lag       - Shows your pingtime.
+gohome    - Joins the set home channel.
+addbuddy  - Adds the selected user from the channel list to your buddy list box.
+rembuddy  - Removes the selected buddy from the buddy list box.
+loadplaya - Loads the Bots mp3 player.
+exitplaya - Closes the bots mp3 player.
+ezmsg     - Brings about a whisper form to simplify whispering.
+greet on  - Enables channel greetings, and brings about the custom greet message form.
+greet off - disables channel greetings.
+
+ENJOY!!! - Neogenic
